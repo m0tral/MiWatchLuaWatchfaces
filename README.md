@@ -11,6 +11,7 @@ These models are running on NuttX => https://nuttx.apache.org/docs/latest/
 and use most popular graphic library LVGL => https://lvgl.io/get-started
 
 For images I use lvgl build-in converter => https://lvgl.io/tools/imageconverter  
+  
 <img src="img/lvgl_conv_settings.png"/>  
 Here is shown which params to set
 
