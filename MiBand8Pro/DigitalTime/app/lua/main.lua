@@ -112,6 +112,7 @@ local function entry()
         obj:set { src = imgPath(src) }
     end)	
 
+    -- handle demiliter blinking
     dataman.subscribe("timeSecondLow", watchface.timeDelim.widget, function(obj, value)
         local second = value // 256;
         second = second & 0x01; -- take a low bit of second, odd/even
