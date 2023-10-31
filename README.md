@@ -17,5 +17,10 @@ It's possible to debug all this stuff on PC cross-platform emulator,
 I personally prefer use Windows 10, under WSl2/Ubuntu subsystem.  
 Will show you later how to do it.  
 
+#### MiBand8Pro Examples
+=> Digitial time - Simple digital time with blinking delimiter
+
+#### MiWatchS3 Examples
+
 going to update during watch/watchfaces develop process  
 
