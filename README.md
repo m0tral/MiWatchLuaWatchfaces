@@ -13,8 +13,8 @@ and use most popular graphic library LVGL => https://lvgl.io/get-started
 For images I use lvgl build-in converter => https://lvgl.io/tools/imageconverter  
   
 <img src="img/lvgl_conv_settings.png"/>  
-Here is shown which params to set
-
+Here is shown which params to set  
+  
 It's possible to debug all this stuff on PC cross-platform emulator,  
 I personally prefer use Windows 10, under WSl2/Ubuntu subsystem.  
 Will show you later how to do it.  
