@@ -20,7 +20,8 @@ I personally prefer use Windows 10, under WSl2/Ubuntu subsystem.
 Will show you later how to do it.   
 
 #### MiBand8Pro Examples
-=> Digitial time - Simple digital time with blinking delimiter
+=> Digital time - Simple digital clock with blinking delimiter
+=> Analog time  - Simple analog clock
 
 #### MiWatchS3 Examples
 
