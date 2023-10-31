@@ -11,7 +11,8 @@ These models are running on NuttX => https://nuttx.apache.org/docs/latest/
 and use most popular graphic library LVGL => https://lvgl.io/get-started
 
 For images I use lvgl build-in converter => https://lvgl.io/tools/imageconverter
-I'll describe later which params to use
+![image](https://github.com/m0tral/MiWatchLuaWatchfaces/img/lvgl_conv_settings.png)
+Here is shown which params to set
 
 It's possible to debug all this stuff on PC cross-platform emulator,  
 I personally prefer use Windows 10, under WSl2/Ubuntu subsystem.  
