@@ -19,9 +19,9 @@
 Тут показаны какие параметры нужно выбрать,   
 чтобы получить картинку в нужном формате   
    
-It's possible to debug all this stuff on PC cross-platform emulator,   
-I personally prefer use Windows 10, under WSl2/Ubuntu subsystem.   
-Will show you later how to do it.   
+Данные приложения можно отлаживать на PC симуляторе,   
+Я лично использую Windows 10, вместе с WSl2/Ubuntu.   
+Позже добавлю как это делается.   
 
 #### MiBand8Pro примеры
  - Digital time => пример простых цифровых часов с мигающим разделителем
