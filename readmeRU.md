@@ -4,29 +4,31 @@
 
 ### Примеры циферблатов Xiaomi на движке LUA, для часов Mi Band 8 Pro, Mi Watch S3
 
-Samples for various Xiami models of LUA watchfaces.  
-you can read more about LUA - https://www.lua.org/start.html  
+Тут вы можете ознакомиться с примерами циферблатов для различных часов Xiaomi.
+Ознакомиться с языком программирования LUA можно здесь - https://www.lua.org/start.html  
 
-Easyface can pack it - https://github.com/m0tral/Easyface  
+В помощью редактора Easyface можно упаковать циферблаты - https://github.com/m0tral/Easyface  
 
-These models are running on NuttX => https://nuttx.apache.org/docs/latest/   
-and use most popular graphic library LVGL => https://lvgl.io/get-started
+Данные модели часов работают на базе RTOS NuttX => https://nuttx.apache.org/docs/latest/   
+и используют графическую библиотеку LVGL => https://lvgl.io/get-started
 
-For images I use lvgl build-in converter => https://lvgl.io/tools/imageconverter  
+Чтобы сконвертировать картинки в нужный формат   
+воспользуйтесь онлайн конфертором LVGL converter => https://lvgl.io/tools/imageconverter  
   
 <img src="img/lvgl_conv_settings.png"/>   
-Here is shown which params to set   
+Тут показаны какие параметры нужно выбрать чтобы получить   
+картинку в нужном формате   
    
 It's possible to debug all this stuff on PC cross-platform emulator,   
 I personally prefer use Windows 10, under WSl2/Ubuntu subsystem.   
 Will show you later how to do it.   
 
-#### MiBand8Pro Examples
- - Digital time => Simple digital clock with blinking delimiter
- - Analog time  => Simple analog clock
- - Analog time animated  => Simple analog clock with smooth second hand, animation + click event sample
+#### MiBand8Pro примеры
+ - Digital time => пример простых цифровых часов с мигающим разделителем
+ - Analog time  => пример аналоговых часов
+ - Analog time animated  => пример аналоговых часов с плавной стрелкой, анимация + пример события: нажатие
 
-#### MiWatchS3 Examples
+#### MiWatchS3 примеры
 
-going to update during watch/watchfaces develop process  
+буду дополнять по мере наработок
 
