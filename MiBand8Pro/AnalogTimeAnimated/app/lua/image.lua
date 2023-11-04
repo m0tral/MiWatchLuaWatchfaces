@@ -120,12 +120,12 @@ function HandImageAnim(root, src, pos)
     }
 	
     local anim = t.widget:Anim {
-        run = false,
-        start_value = 0,
-        end_value = 60,
-        duration = 1000,
+        run = false,     -- create and stop
+        start_value = 0, -- start angle
+        end_value = 60,  -- end angle
+        duration = 1000, -- 1000 msec
         repeat_count = 1,
-        path = "linear",
+        path = "linear", -- type of animation
         exec_cb = function(obj, value)
             obj:set { angle = value }
         end
