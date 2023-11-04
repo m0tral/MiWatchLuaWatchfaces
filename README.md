@@ -22,7 +22,7 @@ Will show you later how to do it.
 #### MiBand8Pro Examples
  - Digital time => Simple digital clock with blinking delimiter
  - Analog time  => Simple analog clock
- - Analog time animated  => Simple analog clock with smoth second hand, animation + click event sample
+ - Analog time animated  => Simple analog clock with smooth second hand, animation + click event sample
 
 #### MiWatchS3 Examples
 
