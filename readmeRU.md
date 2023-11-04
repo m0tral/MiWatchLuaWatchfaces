@@ -1,6 +1,6 @@
 # MiWatchLuaWatchfaces
 
-[English](README.md) | [Русский](readmeRU.md)
+# [English](README.md)
 
 ### Примеры циферблатов Xiaomi на движке LUA, для часов Mi Band 8 Pro, Mi Watch S3
 
