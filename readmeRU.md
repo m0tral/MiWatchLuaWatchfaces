@@ -16,8 +16,8 @@
 воспользуйтесь онлайн конфертором LVGL converter => https://lvgl.io/tools/imageconverter  
   
 <img src="img/lvgl_conv_settings.png"/>   
-Тут показаны какие параметры нужно выбрать чтобы получить   
-картинку в нужном формате   
+Тут показаны какие параметры нужно выбрать,   
+чтобы получить картинку в нужном формате   
    
 It's possible to debug all this stuff on PC cross-platform emulator,   
 I personally prefer use Windows 10, under WSl2/Ubuntu subsystem.   
