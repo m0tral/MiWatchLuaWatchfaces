@@ -2,7 +2,7 @@
 
 [English](README.md) | [Русский](readmeRU.md)
 
-### Xiaomi watchfaces examples running on LUA engine, Mi Band 8 Pro, Mi Watch S3 models  
+### Примеры циферблатов Xiaomi на движке LUA, для часов Mi Band 8 Pro, Mi Watch S3
 
 Samples for various Xiami models of LUA watchfaces.  
 you can read more about LUA - https://www.lua.org/start.html  
