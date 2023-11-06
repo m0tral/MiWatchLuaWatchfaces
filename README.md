@@ -25,6 +25,7 @@ Will show you later how to do it.
  - Digital time => Simple digital clock with blinking delimiter
  - Analog time  => Simple analog clock
  - Analog time animated  => Simple analog clock with smooth second hand, animation + click event sample
+ - Accelerometer  => Example of usage of accelemoter as data source for animation object
 
 #### MiWatchS3 Examples
 
