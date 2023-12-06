@@ -2,7 +2,7 @@
 
 # [Русский](readmeRU.md)
 
-### Xiaomi watchfaces examples running on LUA engine, Mi Band 8 Pro, Mi Watch S3 models  
+### Xiaomi watchfaces examples running on LUA engine: Mi Band 8 Pro, Redmi Watch 4, Mi Watch S3
 
 Samples for various Xiaomi models of LUA watchfaces.  
 you can read more about LUA - https://www.lua.org/start.html  
@@ -26,6 +26,10 @@ Will show you later how to do it.
  - Analog time  => Simple analog clock
  - Analog time animated  => Simple analog clock with smooth second hand, animation + click event sample
  - Accelerometer  => Example of usage of accelemoter as data source for animation object
+ - Diffusion  => Example dynamic watchface from Redmi Watch 4
+ - FlyingCat  => Example with accelemoter, animation, click event
+
+#### Redmi Watch 4 Examples
 
 #### MiWatchS3 Examples
 

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<FaceProject DeviceType="365">
+	<Screen Title="Diffusion" Bitmap="preview.png">
+		<Widget p3:type="FaceWidgetContainer" Shape="34" Name="app_main.lua" X="0" Y="0" Width="390" Height="450" Alpha="0" Visible_Src="0" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+	</Screen>
+</FaceProject>
