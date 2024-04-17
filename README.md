@@ -2,7 +2,12 @@
 
 # [Русский](readmeRU.md)
 
-### Xiaomi watchfaces examples running on LUA engine: Mi Band 8 Pro, Redmi Watch 4, Mi Watch S3
+### Xiaomi watchfaces examples running on LUA engine:  
+  Mi Band 8 Pro,  
+  Redmi Watch 4,  
+  Mi Watch S3,  
+  Mi Band 9,  
+  Mi Band 9 Pro  
 
 Samples for various Xiaomi models of LUA watchfaces.  
 you can read more about LUA - https://www.lua.org/start.html  
@@ -30,6 +35,10 @@ Will show you later how to do it.
  - FlyingCat  => Example with accelemoter, animation, click event
 
 #### Redmi Watch 4 Examples
+ - Diffusion  => stock watchface sample
+
+#### MiBand9 Examples
+ - watchface_366269993  => stock watchface sample
 
 #### MiWatchS3 Examples
 

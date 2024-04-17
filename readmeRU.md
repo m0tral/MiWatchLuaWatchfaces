@@ -2,7 +2,12 @@
 
 # [English](README.md)
 
-### Примеры циферблатов Xiaomi на движке LUA, для часов Mi Band 8 Pro, Redmi Watch 4, Mi Watch S3
+### Примеры циферблатов Xiaomi на движке LUA, для часов 
+  Mi Band 8 Pro,  
+  Redmi Watch 4,  
+  Mi Watch S3,  
+  Mi Band 9,  
+  Mi Band 9 Pro  
 
 Тут вы можете ознакомиться с примерами циферблатов для различных часов Xiaomi.   
 Ознакомиться с языком программирования LUA можно здесь - https://www.lua.org/start.html   
@@ -32,6 +37,10 @@
  - FlyingCat  => пример с акселерометров, анимацей, нажатием + эффект снега
  
 #### Redmi Watch 4 примеры
+ - Diffusion  => пример родного циферблата
+ 
+ #### MiBand9 Examples
+ - watchface_366269993  => пример родного циферблата
 
 #### MiWatchS3 примеры
 
