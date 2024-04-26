@@ -29,7 +29,7 @@ local function entry()
 	
     -- create watchface elements
 
-    watchface.cat   = HandImage(root, "cat_b.bin", pos.cat)
+    watchface.cat   = HandImage(root, "cat_01.bin", pos.cat)
     watchface.catIndex = 1
 
     function watchface:move()
