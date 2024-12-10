@@ -36,6 +36,7 @@ Will show you later how to do it.
 
 #### Redmi Watch 4 Examples
  - Diffusion  => stock watchface sample
+   TouchEvents => touch events coords tracking
 
 #### MiBand9 Examples
  - watchface_366269993  => stock watchface sample
