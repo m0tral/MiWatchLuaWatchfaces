@@ -40,8 +40,11 @@
  - Diffusion  => пример родного циферблата
    TouchEvents => отслеживание параметров тач событий
  
- #### MiBand9 Examples
+#### MiBand9 Examples
  - watchface_366269993  => пример родного циферблата
+
+#### MiBand9 Pro Examples
+ - PointerTest  => пример виджета Pointer
 
 #### MiWatchS3 примеры
 

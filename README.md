@@ -41,6 +41,9 @@ Will show you later how to do it.
 #### MiBand9 Examples
  - watchface_366269993  => stock watchface sample
 
+#### MiBand9 Pro Examples
+ - PointerTest  => widget Pointer sample
+
 #### MiWatchS3 Examples
 
 going to update during watch/watchfaces develop process  
