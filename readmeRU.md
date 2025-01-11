@@ -46,6 +46,7 @@
 #### MiBand9 Pro примеры   
  - PointerTest  => пример виджета Pointer   
  - AnalogTimeTest  => пример виджета AnalogTime   
+ - ImageBarTest  => пример виджета ImageBar   
 
 #### MiWatchS3 примеры   
 

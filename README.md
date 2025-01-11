@@ -44,6 +44,7 @@ Will show you later how to do it.
 #### MiBand9 Pro Examples   
  - PointerTest  => widget Pointer sample   
  - AnalogTimeTest  => widget AnalogTime sample   
+ - ImageBarTest  => widget ImageBar sample   
 
 #### MiWatchS3 Examples   
 
