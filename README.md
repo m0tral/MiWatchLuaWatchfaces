@@ -26,25 +26,26 @@ It's possible to debug all this stuff on PC cross-platform emulator,
 I personally prefer use Windows 10, under WSl2/Ubuntu subsystem.   
 Will show you later how to do it.   
 
-#### MiBand8Pro Examples
- - Digital time => Simple digital clock with blinking delimiter
- - Analog time  => Simple analog clock
- - Analog time animated  => Simple analog clock with smooth second hand, animation + click event sample
- - Accelerometer  => Example of usage of accelemoter as data source for animation object
- - Diffusion  => Example dynamic watchface from Redmi Watch 4
- - FlyingCat  => Example with accelemoter, animation, click event
+#### MiBand8Pro Examples   
+ - Digital time => Simple digital clock with blinking delimiter   
+ - Analog time  => Simple analog clock   
+ - Analog time animated  => Simple analog clock with smooth second hand, animation + click event sample   
+ - Accelerometer  => Example of usage of accelemoter as data source for animation object   
+ - Diffusion  => Example dynamic watchface from Redmi Watch 4   
+ - FlyingCat  => Example with accelemoter, animation, click event   
 
-#### Redmi Watch 4 Examples
- - Diffusion  => stock watchface sample
-   TouchEvents => touch events coords tracking
+#### Redmi Watch 4 Examples   
+ - Diffusion  => stock watchface sample   
+   TouchEvents => touch events coords tracking   
 
-#### MiBand9 Examples
- - watchface_366269993  => stock watchface sample
+#### MiBand9 Examples   
+ - watchface_366269993  => stock watchface sample   
 
-#### MiBand9 Pro Examples
- - PointerTest  => widget Pointer sample
+#### MiBand9 Pro Examples   
+ - PointerTest  => widget Pointer sample   
+ - AnalogTimeTest  => widget AnalogTime sample   
 
-#### MiWatchS3 Examples
+#### MiWatchS3 Examples   
 
-going to update during watch/watchfaces develop process  
+going to update during watch/watchfaces develop process   
 

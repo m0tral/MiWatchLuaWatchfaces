@@ -1,0 +1,5 @@
+/RedmiWatch4/TouchEvents/output/*.info
+/RedmiWatch4/TouchEvents/output/*.face
+*.info
+*.face
+BTConn
