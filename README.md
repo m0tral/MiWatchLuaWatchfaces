@@ -45,6 +45,7 @@ Will show you later how to do it.
  - PointerTest  => widget Pointer sample   
  - AnalogTimeTest  => widget AnalogTime sample   
  - ImageBarTest  => widget ImageBar sample   
+ - CurvedLabelTest  => widget CurvedLabel sample   
 
 #### MiWatchS3 Examples   
 

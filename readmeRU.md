@@ -47,6 +47,7 @@
  - PointerTest  => пример виджета Pointer   
  - AnalogTimeTest  => пример виджета AnalogTime   
  - ImageBarTest  => пример виджета ImageBar   
+ - CurvedLabelTest  => пример виджета CurvedLabel   
 
 #### MiWatchS3 примеры   
 
