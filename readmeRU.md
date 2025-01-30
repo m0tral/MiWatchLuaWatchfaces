@@ -51,5 +51,11 @@
 
 #### MiWatchS3 примеры   
 
+#### Watchfaces примеры для не LUA моделей   
+   
+#### RedmiWatch 5 Lite примеры   
+#### RedmiWatch 5 Active примеры   
+#### RedmiWatch 3 Active примеры   
+
 буду дополнять по мере наработок   
 

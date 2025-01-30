@@ -49,5 +49,11 @@ Will show you later how to do it.
 
 #### MiWatchS3 Examples   
 
+#### Watchfaces Samples for NON LUA models   
+   
+#### RedmiWatch 5 Lite Examples   
+#### RedmiWatch 5 Active Examples   
+#### RedmiWatch 3 Active Examples   
+
 going to update during watch/watchfaces develop process   
 
