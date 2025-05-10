@@ -5,7 +5,7 @@
 ### Xiaomi watchfaces examples running on LUA engine:  
   Mi Band 8 Pro,  
   Redmi Watch 4,  
-  Mi Watch S3, S4  
+  Mi Watch S3, S4, S4 Sport  
   Mi Band 9,  
   Mi Band 9 Pro  
 
