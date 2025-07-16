@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<FaceProject DeviceType="366">
+    <Screen Title="Temp Control" Bitmap="preview_mb9.png">
+        <Widget Shape="34" Name="app_lua%2Fmain.lua" X="0" Y="0" Width="212" Height="520" Alpha="0" Visible_Src="0" />
+    </Screen>
+</FaceProject>
