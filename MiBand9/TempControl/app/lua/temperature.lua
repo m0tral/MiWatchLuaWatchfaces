@@ -19,7 +19,8 @@ local bodyTempMapping = {
         ["1.3.206"] = 0x200A15E8
     },
     ["miwear.watch.n66gl"] = {
-        ["2.3.97"] = 0x200A55A0
+        ["2.3.97"] = 0x200A55A0,
+        ["2.3.98"] = 0x200A55A0
     },
     ["unknown"] = {
         ["version1"] = 0x20000000,
@@ -39,7 +40,8 @@ local tempReminder = {
         ["1.3.206"] = 0x200A1174
     },
     ["miwear.watch.n66gl"] = {
-        ["2.3.97"] = 0x200A5150
+        ["2.3.97"] = 0x200A5150,
+        ["2.3.98"] = 0x200A5150
     },
     ["unknown"] = {
         ["version1"] = 0x20000000,
