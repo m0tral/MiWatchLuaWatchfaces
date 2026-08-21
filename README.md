@@ -3,13 +3,10 @@
 # [Русский](readmeRU.md)
 
 ### Xiaomi watchfaces examples running on LUA engine:  
-  Redmi Watch 4, 6, 
-  Mi Watch S3, S4, S4 Sport, S5
-  Mi Band 9,
-  Mi Band 10,
-  Mi Band 8 Pro,  
-  Mi Band 9 Pro,
-  Mi Band 10 Pro
+  Redmi Watch 4, 6,  
+  Mi Watch S3, S4, S4 Sport, S5  
+  Mi Band 9, Mi Band 10, Mi Band 11,  
+  Mi Band 8 Pro, Mi Band 9 Pro, Mi Band 10 Pro  
 
 Samples for various Xiaomi models of LUA watchfaces.  
 you can read more about LUA - https://www.lua.org/start.html  
@@ -48,6 +45,7 @@ Will show you later how to do it.
  - AnalogTimeTest  => widget AnalogTime sample   
  - ImageBarTest  => widget ImageBar sample   
  - CurvedLabelTest  => widget CurvedLabel sample   
+ - Compass  => Compass pointer sample & GPS Info
  
 #### MiBand10 Pro Examples   
  - UorbGPS  => GPS and compass location read sample via /dev/uorb sensors mechanism
